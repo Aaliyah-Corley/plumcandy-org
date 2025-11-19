@@ -28,6 +28,7 @@
             history.replaceState({}, "", `/${encodeURIComponent(query)}`);
         }
     }
+    // Removed canon logic as the search box section is removed.
 </script>
 
 <div class="max-w-4xl mx-auto px-4 py-12 md:py-20 space-y-24">
@@ -39,68 +40,30 @@
             The Plum Candy <span class="text-gold">Foundation</span>
         </h1>
         <p
-            class="text-xl md:text-2xl text-slate-400 max-w-2xl mx-auto font-light leading-relaxed"
+            class="text-xl md:text-2xl text-slate-400 max-w-3xl mx-auto font-light leading-relaxed"
         >
             A non-profit whose mission is to make high school kids less dumb.
         </p>
     </section>
 
-    <!-- Canon Lookup (Interactive) -->
-    <section class="max-w-xl mx-auto">
-        <div class="relative group">
-            <div
-                class="absolute -inset-1 bg-gradient-to-r from-gold to-amber-600 rounded-lg blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"
-            ></div>
-            <div class="relative">
-                <input
-                    type="text"
-                    bind:value={query}
-                    on:input={runCanon}
-                    placeholder="Type something to check canon status..."
-                    class="w-full bg-slate-900 border border-slate-700 text-slate-100 px-6 py-4 rounded-lg focus:outline-none focus:border-gold focus:ring-1 focus:ring-gold transition-all placeholder-slate-600 text-lg font-mono"
-                />
-            </div>
-        </div>
-
-        {#if result}
-            <div
-                class="mt-8 p-6 border border-gold/20 bg-gold/5 rounded-lg text-center animate-in fade-in slide-in-from-bottom-4 duration-500"
-            >
-                <p
-                    class="text-gold font-mono text-xl md:text-2xl tracking-widest font-bold"
-                >
-                    {result}
-                </p>
-            </div>
-        {/if}
-    </section>
+    <!-- Canon Lookup (Interactive) - REMOVED -->
 
     <!-- Content Sections -->
     <section class="grid md:grid-cols-2 gap-12 items-center">
         <div class="space-y-6">
             <h2 class="text-3xl font-serif text-slate-100">A Worthy Hero</h2>
-            <p class="text-slate-400 leading-relaxed">
-                We do that by giving them a worthy hero—and making her novel, <span
-                    class="text-slate-200 font-medium">Plum Candy</span
-                >, culturally ubiquitous and fervently discussed in classrooms.
+            <p class="text-lg text-slate-300 leading-relaxed">
+                Our first project is <span class="italic text-gold"
+                    >Plum Candy</span
+                >, a debut novel by 17-year-old Aaliyah Corley.
             </p>
             <a
-                href="https://itscanon.com"
-                class="inline-flex items-center text-gold hover:text-amber-400 transition-colors font-medium group"
+                href="https://itscanon.com/plum-candy"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-block text-gold hover:text-white transition-colors border-b border-gold/30 hover:border-gold pb-1"
             >
-                Visit itscanon.com
-                <svg
-                    class="w-4 h-4 ml-2 transform group-hover:translate-x-1 transition-transform"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                    ><path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M17 8l4 4m0 0l-4 4m4-4H3"
-                    ></path></svg
-                >
+                This is how we help teachers make kids less dumb.
             </a>
         </div>
         <div
@@ -116,15 +79,15 @@
 
     <section class="space-y-8 text-center max-w-3xl mx-auto">
         <h2 class="text-3xl font-serif text-slate-100">Cultural Gold</h2>
-        <p class="text-slate-400 leading-relaxed text-lg">
-            Our <a
-                href="/roadmap"
-                class="text-gold hover:underline decoration-gold/50 underline-offset-4"
-                >roadmap to cultural influence</a
-            >
-            will be financed through generous donations, yes, but principally through
-            a sophisticated new digital asset:
-            <span class="text-gold font-serif italic">cultural gold</span>.
+        <p class="text-lg text-slate-300 leading-relaxed">
+            We are building a roadmap to cultural influence.
+        </p>
+        <p class="text-lg text-slate-300">
+            We have a unique asset: <a
+                href="/tokenomics"
+                class="text-gold font-serif italic hover:underline"
+                >Cultural Gold</a
+            >.
         </p>
     </section>
 

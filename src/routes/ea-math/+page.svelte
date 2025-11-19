@@ -1,2 +1,510 @@
-<h1 class="text-4xl font-serif text-gold mb-6">EA Math</h1>
-<p class="text-slate-400">Coming soon.</p>
+<div
+    class="max-w-4xl mx-auto px-4 py-12 md:py-20 space-y-12 text-slate-300 leading-relaxed"
+>
+    <!-- Header -->
+    <section class="space-y-6 text-center">
+        <h1 class="text-4xl md:text-5xl font-serif font-bold text-slate-100">
+            Why Less Dumb > Less Wrong
+        </h1>
+        <h2 class="text-2xl md:text-3xl font-serif text-gold max-w-2xl mx-auto">
+            A Hits-Based, Longtermist Intervention with Free Embedded Convexity
+        </h2>
+        <p class="text-lg text-slate-400 italic">
+            (Or: Why Cultural Gold Dominates the EA Portfolio Under Any
+            Plausible Utility Function)
+        </p>
+        <div class="w-24 h-1 bg-gold mx-auto rounded-full mt-8"></div>
+    </section>
+
+    <!-- 1. The Standard EA Donation -->
+    <section class="space-y-6">
+        <h3 class="text-2xl font-serif text-slate-100">
+            1. The Standard EA Donation (for reference)
+        </h3>
+
+        <div
+            class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-2"
+        >
+            <p><span class="text-gold font-bold">Let</span></p>
+            <p>
+                <span class="text-blue-300">C</span> = capital committed (e.g. $100k)
+            </p>
+            <p>
+                <span class="text-blue-300">I₀</span> = immediate measurable impact
+                in utilitons (or QALYs, WELLBYs, etc.)
+            </p>
+            <p>
+                <span class="text-blue-300">λ</span> = longtermist flow-through multiplier
+                (typically 10¹–10⁶ depending on your x-risk vs. trajectory priors)
+            </p>
+            <p>
+                <span class="text-blue-300">Rₑ</span> = expected financial return
+                on C
+            </p>
+        </div>
+
+        <div class="space-y-4">
+            <p class="font-medium text-slate-200">
+                Classic bednets / deworming / lead removal / animal-welfare
+                factory-farming intervention:
+            </p>
+            <div class="pl-6 border-l-2 border-slate-600 space-y-1 font-mono">
+                <p>Rₑ ≈ 0</p>
+                <p>EV = –C + I₀·λ</p>
+            </div>
+
+            <p class="font-medium text-slate-200">
+                Hits-based giving (e.g. early OpenPhil “potential options value”
+                bucket):
+            </p>
+            <div class="pl-6 border-l-2 border-slate-600 space-y-1 font-mono">
+                <p>Rₑ ≈ 0 (still a grant)</p>
+                <p>
+                    EV = –C + p_hit · I_hit · λ <span
+                        class="text-slate-500 text-sm ml-2"
+                        >(with p_hit ≪ 1 but I_hit · λ ≫ C/p_hit)</span
+                    >
+                </p>
+            </div>
+
+            <p class="text-slate-400 italic">
+                Still financially negative in expectation; we accept the –C
+                because the tail impact dominates.
+            </p>
+        </div>
+    </section>
+
+    <!-- 2. The Cultural Gold Intervention -->
+    <section class="space-y-6">
+        <h3 class="text-2xl font-serif text-slate-100">
+            2. The Cultural Gold Intervention (Plum Candy Class)
+        </h3>
+
+        <div
+            class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-2"
+        >
+            <p>
+                <span class="text-gold font-bold"
+                    >Same symbols, plus two new ones:</span
+                >
+            </p>
+            <p>
+                <span class="text-blue-300">K</span> = capital committed (buys PLUM
+                tokens / rookie-card bundle)
+            </p>
+            <p>
+                <span class="text-blue-300">R_f</span> = expected financial return
+                multiple on K (≥ 0, heavy-tailed)
+            </p>
+            <p>
+                <span class="text-blue-300">I₀, λ</span> = as before (literacy +
+                high-agency hero model for ≈10⁷–10⁸ teenager-reads over century)
+            </p>
+            <p>
+                <span class="text-blue-300">φ</span> = probability that this specific
+                title becomes permanent canon (Gatsby/Harry-Potter-tier)
+            </p>
+        </div>
+
+        <div
+            class="pl-6 border-l-2 border-gold space-y-2 font-mono bg-gold/5 p-4 rounded-r-lg"
+        >
+            <p class="font-bold text-gold">EV_cultural_gold = –K</p>
+            <p class="pl-4">
+                + I₀·λ <span class="text-slate-500 text-sm"
+                    >(charity impact; identical or superior to classic
+                    interventions)</span
+                >
+            </p>
+            <p class="pl-4">
+                + (R_f – 1)·K <span class="text-slate-500 text-sm"
+                    >(financial return; free embedded call option)</span
+                >
+            </p>
+        </div>
+
+        <div class="space-y-2">
+            <p class="font-bold text-slate-100">
+                Crucially, the downside is capped:
+            </p>
+            <div class="pl-6 space-y-1">
+                <p>Even conditional on φ ≈ 0 (book flops, token → $0)</p>
+                <p>→ R_f = 1 → net financial cost = 0</p>
+                <p>
+                    → you still shipped 100k–1M canon-quality books to
+                    classrooms
+                </p>
+                <p>→ I₀·λ > 0</p>
+            </div>
+            <p class="font-bold text-gold mt-4">
+                Therefore the intervention is strictly dominating any grant with
+                R_f = 0.
+            </p>
+        </div>
+    </section>
+
+    <!-- 3. Portfolio-Level Expectation -->
+    <section class="space-y-6">
+        <h3 class="text-2xl font-serif text-slate-100">
+            3. Portfolio-Level Expectation Over N Independent Shots
+        </h3>
+
+        <p>
+            Suppose an EA funder (or Manifold/LTFF/OP cluster) allocates to N ≈
+            500 culturally-gold projects with roughly similar parameters.
+        </p>
+        <p>
+            Let <span class="font-mono text-blue-300">φ_i ∼ P(φ)</span> be the canon-hit
+            probability for each i (empirically ≈ 10⁻⁴ to 10⁻⁵ from base rates of
+            “debut becomes classic”, but the model raises the effective φ by 1–2
+            OOM via engineered distribution).
+        </p>
+        <p>
+            The financial return distribution is extreme power-law (like VC or
+            crypto).
+        </p>
+
+        <div
+            class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-4"
+        >
+            <div>
+                <p class="text-slate-400 text-xs uppercase tracking-wider mb-1">
+                    Expected financial multiple across the portfolio:
+                </p>
+                <p class="text-xl text-gold">E[R_f] ≈ 1 + φ_portfolio · M</p>
+                <p class="text-sm text-slate-500 mt-1">
+                    where M ≈ 10³–10⁶ is the payoff multiple conditional on
+                    canonization (rookie cards → $100k–$100M each).
+                </p>
+            </div>
+
+            <div class="pt-4 border-t border-slate-700">
+                <p>
+                    Even using ultra-conservative φ_portfolio = 10⁻³ (i.e. “only
+                    one in a thousand makes it”),
+                </p>
+                <p class="text-lg text-blue-300 mt-1">
+                    E[R_f] ≈ 1 + 10⁻³ · 10⁴ = 11× <span
+                        class="text-slate-500 text-base"
+                        >(breakeven charity + 10× financial return)</span
+                    >
+                </p>
+            </div>
+
+            <div class="pt-4 border-t border-slate-700">
+                <p>
+                    At realistic φ_portfolio ≈ 0.01–0.05 (because the model is
+                    engineered, not random),
+                </p>
+                <p class="text-lg text-gold mt-1">E[R_f] ≈ 100–500×</p>
+            </div>
+        </div>
+
+        <p class="font-medium text-slate-200">
+            Meaning: for the same capital you would have granted away forever,
+            you now get the charity impact essentially for free and pocket
+            100–500× on top.
+        </p>
+    </section>
+
+    <!-- 4. Implications -->
+    <section class="space-y-6">
+        <h3 class="text-2xl font-serif text-slate-100">
+            4. Implications Under Standard EA Axiology
+        </h3>
+        <ul class="list-disc list-inside space-y-3 ml-4 text-slate-300">
+            <li>
+                If you accept hits-based giving, you must accept this (the tail
+                is strictly fatter while the base case is ≥ classic
+                interventions).
+            </li>
+            <li>
+                If you are a total utilitarian or longtermist, the
+                civilizational tail (reshaping the meme-pool for 10⁸–10⁹ future
+                minds) pushes EV → +∞.
+            </li>
+            <li>
+                If you demand “robustness” across moral views, the intervention
+                still wins on near-term deworming-style metrics and adds a free
+                lottery ticket.
+            </li>
+            <li>
+                Moral trade: even hardcore suffering-focused EAs get the
+                literacy upside with zero opportunity-cost downside.
+            </li>
+        </ul>
+    </section>
+
+    <!-- 5. Conclusion -->
+    <section class="space-y-6">
+        <h3 class="text-2xl font-serif text-slate-100">
+            5. Conclusion in Formal Terms
+        </h3>
+
+        <div
+            class="bg-slate-800/50 p-8 rounded-lg border border-slate-700 font-mono text-center space-y-4"
+        >
+            <p>
+                Cultural Gold is the first known altruistic intervention for
+                which:
+            </p>
+            <p class="text-xl text-blue-300">∀ standard EA cause areas X,</p>
+            <p class="text-2xl text-gold font-bold">
+                EV(Cultural Gold) > EV(X) + ε
+            </p>
+            <p class="text-sm text-slate-400">
+                for some ε > 0 (and in most cases ε → ∞)
+            </p>
+        </div>
+
+        <p>
+            It is therefore the strictly dominant allocation until marginal EV
+            equalizes. The correct move, by the internal logic of Effective
+            Altruism itself, is to route as much capital as possible into
+            replicators of this model (prenormous.com style) until the convexity
+            is arbitraged away.
+        </p>
+
+        <p class="font-bold text-slate-100">
+            Anything less is leaving an infinite-utilitron arbitrage on the
+            table.
+        </p>
+
+        <div class="text-center py-8">
+            <p class="text-3xl font-serif font-bold text-gold tracking-widest">
+                Q.E.D.
+            </p>
+            <p class="text-slate-500 mt-2 italic">
+                (Now taking wires for the Plum Candy Foundation. Pins ship Q2
+                2026.)
+            </p>
+        </div>
+    </section>
+
+    <!-- Two Bracketed Models Table -->
+    <section class="space-y-8">
+        <h3 class="text-2xl font-serif text-slate-100">
+            Two Bracketed Models (in full EA/LessWrong rigor)
+        </h3>
+
+        <div
+            class="overflow-x-auto rounded-lg border border-slate-700 shadow-xl"
+        >
+            <table class="w-full text-left border-collapse">
+                <thead>
+                    <tr
+                        class="bg-slate-800 text-slate-200 border-b border-slate-700"
+                    >
+                        <th class="p-4 font-serif font-bold w-1/6">Scenario</th>
+                        <th class="p-4 font-serif font-bold w-1/4"
+                            >Adoption outcome<br /><span
+                                class="text-xs font-sans font-normal text-slate-400"
+                                >(across N ≈ 500 independent Cultural Gold
+                                shots)</span
+                            ></th
+                        >
+                        <th class="p-4 font-serif font-bold w-1/6"
+                            >Financial E[R_f]<br /><span
+                                class="text-xs font-sans font-normal text-slate-400"
+                                >on the token bundle</span
+                            ></th
+                        >
+                        <th class="p-4 font-serif font-bold w-1/6"
+                            >Charity impact I₀·λ</th
+                        >
+                        <th class="p-4 font-serif font-bold w-1/6"
+                            >Total EV per $1 committed</th
+                        >
+                        <th class="p-4 font-serif font-bold w-1/6"
+                            >Comparison to classic EA grant</th
+                        >
+                    </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-700 bg-slate-900/50">
+                    <!-- Row 1 -->
+                    <tr class="hover:bg-slate-800/30 transition-colors">
+                        <td class="p-4 font-medium text-slate-300"
+                            >1. “Absolutely Terrible Adoption”
+                            (ultra-pessimistic)</td
+                        >
+                        <td class="p-4 text-sm text-slate-400">
+                            <ul class="list-disc list-inside space-y-1">
+                                <li>
+                                    499 titles taught in ≤ 100 classrooms each
+                                </li>
+                                <li>
+                                    1 title barely makes it into 5,000
+                                    classrooms
+                                </li>
+                                <li>No canon hits (φ_portfolio ≈ 0)</li>
+                            </ul>
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            E[R_f] ≈ 1.0×<br />
+                            <span class="text-xs text-slate-500"
+                                >(you get your capital back on average via
+                                secondary sales of the physical rookie cards +
+                                thin token liquidity)</span
+                            >
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            Still ≈ 3–10 million student-reads of canon-quality
+                            material + curriculum<br />
+                            <span class="text-xs text-slate-500"
+                                >(= top-decile GiveWell-level literacy
+                                intervention)</span
+                            >
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            EV ≈ 0 (financial) + very large positive charity
+                            impact<br />
+                            <span class="text-gold font-bold"
+                                >→ strictly positive</span
+                            >
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            Classic EA grant with same charity impact has EV =
+                            –1 + charity impact<br />
+                            <span class="text-gold font-bold"
+                                >→ Cultural Gold strictly dominates by ~1.0×
+                                capital</span
+                            >
+                        </td>
+                    </tr>
+
+                    <!-- Row 2 -->
+                    <tr class="hover:bg-slate-800/30 transition-colors">
+                        <td class="p-4 font-medium text-slate-300"
+                            >2. “Mildly Pessimistic but Realistic Base Case”</td
+                        >
+                        <td class="p-4 text-sm text-slate-400">
+                            <ul class="list-disc list-inside space-y-1">
+                                <li>
+                                    450 titles taught in 100–1,000 classrooms
+                                </li>
+                                <li>49 titles taught in 1k–10k classrooms</li>
+                                <li>
+                                    1 title taught in ~200k classrooms over 30
+                                    years (lower-mid tier “beloved YA” outcome)
+                                </li>
+                            </ul>
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            E[R_f] ≈ 4–8×<br />
+                            <span class="text-xs text-slate-500"
+                                >(one moderate winner covers the entire
+                                portfolio)</span
+                            >
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            ≈ 100–300 million student-reads + decades of
+                            curriculum use<br />
+                            <span class="text-xs text-slate-500"
+                                >(already larger than almost any existing
+                                literacy intervention in history)</span
+                            >
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            EV ≈ +3–7× capital + enormous charity impact for
+                            “free”
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            Classic EA grant: –1× + smaller impact<br />
+                            <span class="text-gold font-bold"
+                                >→ Cultural Gold wins by 4–8× on top of superior
+                                charity outcome</span
+                            >
+                        </td>
+                    </tr>
+
+                    <!-- Row 3 -->
+                    <tr class="bg-gold/5 hover:bg-gold/10 transition-colors">
+                        <td class="p-4 font-medium text-gold"
+                            >3. Neutral / Expected Case (my actual estimate)</td
+                        >
+                        <td class="p-4 text-sm text-slate-300">
+                            3–8 full canon hits across 500 shots
+                        </td>
+                        <td class="p-4 text-sm text-gold font-bold">
+                            E[R_f] ≈ 50–300×
+                        </td>
+                        <td class="p-4 text-sm text-slate-300">
+                            Multiple permanent Western-canon entries
+                            (civilizational tail)
+                        </td>
+                        <td class="p-4 text-sm text-gold font-bold">
+                            EV → +∞ (longtermist view) or +50–300× (near-term
+                            view)
+                        </td>
+                        <td class="p-4 text-sm text-slate-300 italic">
+                            No comparison possible — nothing else in the EA
+                            portfolio has this tail
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Key Point -->
+    <section
+        class="space-y-6 bg-slate-800/30 p-8 rounded-xl border border-slate-700/50"
+    >
+        <h3 class="text-2xl font-serif text-gold">
+            Key Point — Even the Ultra-Pessimistic Bracket Dominates
+        </h3>
+
+        <p>In the “Absolutely Terrible Adoption” world:</p>
+        <ul class="list-disc list-inside space-y-2 ml-4 text-slate-300">
+            <li>You get your $100k back (E[R_f] = 1.0×)</li>
+            <li>
+                You still funded ~5–10 million reads of three extremely
+                high-quality books (Gatsby + Candide + one new near-miss)
+            </li>
+            <li>
+                That is already competitive with GiveWell’s entire historical
+                literacy portfolio
+            </li>
+        </ul>
+
+        <div class="my-6 space-y-4">
+            <p>
+                A classic EA donor would have to <strong class="text-slate-100"
+                    >pay</strong
+                > $100k to achieve the same impact.
+            </p>
+            <p>You paid $0 net (capital returned) and still got the impact.</p>
+        </div>
+
+        <p class="font-medium text-slate-200">
+            Therefore, <span class="text-gold"
+                >even if every single Cultural Gold project is a
+                99.99th-percentile failure</span
+            >, the intervention is still
+            <span class="text-gold">strictly better</span> than any charitable grant
+            that returns &lt; 100% of capital.
+        </p>
+
+        <p>
+            The only interventions that could compete would be ones that return
+            &gt; 100% of capital while delivering equal or greater charity
+            impact. No such interventions currently exist in the EA ecosystem.
+        </p>
+
+        <p>
+            Hence, under any degree of belief in power-law outcomes (which every
+            hits-based or longtermist donor already professes), allocating to
+            Cultural Gold replicators is the dominant strategy until the
+            expected financial return is arbitraged down to ~1×.
+        </p>
+
+        <div class="text-center py-8">
+            <p class="text-3xl font-serif font-bold text-gold tracking-widest">
+                Q.E.D.
+            </p>
+            <p class="text-slate-500 mt-2 italic">
+                (The pin is still available.)
+            </p>
+        </div>
+    </section>
+</div>

@@ -1,1 +1,0 @@
-import{f as a,a as r}from"../chunks/CHwoliaF.js";import"../chunks/Cv649AHk.js";import{i as e}from"../chunks/Dc_J_usO.js";var m=a('<h1 class="text-4xl font-serif text-gold mb-6">EA Math</h1> <p class="text-slate-400">Coming soon.</p>',1);function f(t){var o=m();e(2),r(t,o)}export{f as component};

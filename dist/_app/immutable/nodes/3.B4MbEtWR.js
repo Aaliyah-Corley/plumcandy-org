@@ -1,29 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
-		
-		<link href="./_app/immutable/assets/0.8Ion55HX.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.B23Ds_OB.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Dr7Vh0Lw.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BNrcYpNh.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BtrTa3Aq.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.CGYDSJCT.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BvTbeqyS.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BZyiT7c9.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BfsmOUYK.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.BOTrx_lJ.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BAS--CVu.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/2aXKwvc0.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/yDyeNtYN.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/3.B4MbEtWR.js">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="min-h-screen flex flex-col font-sans text-slate-100 bg-slate-900 selection:bg-gold selection:text-slate-900"><header class="sticky top-0 z-50 w-full backdrop-blur-md bg-slate-900/80 border-b border-slate-800/50"><div class="container mx-auto px-4 h-16 flex items-center justify-between"><a href="/" class="text-xl font-serif font-bold text-gold tracking-tight hover:text-white transition-colors">Plum Candy Foundation</a> <nav class="hidden md:flex items-center gap-8 text-sm font-medium"><a href="/" class="hover:text-gold transition-colors text-slate-400">Home</a> <a href="/tokenomics" class="hover:text-gold transition-colors text-slate-400">Tokenomics</a> <a href="/ea-math" class="hover:text-gold transition-colors text-gold">EA Math</a></nav></div></header> <main class="flex-1"><!--[--><!----><div class="max-w-4xl mx-auto px-4 py-12 md:py-20 space-y-12 text-slate-300 leading-relaxed"><section class="space-y-6 text-center"><h1 class="text-4xl md:text-5xl font-serif font-bold text-slate-100">Why Less Dumb > Less Wrong</h1> <h2 class="text-2xl md:text-3xl font-serif text-gold max-w-2xl mx-auto">A Hits-Based, Longtermist Intervention with Free Embedded Convexity</h2> <p class="text-lg text-slate-400 italic">(Or: Why Cultural Gold Dominates the EA Portfolio Under Any
+import{f as s,a}from"../chunks/BZyiT7c9.js";import"../chunks/BAS--CVu.js";var l=s(`<div class="max-w-4xl mx-auto px-4 py-12 md:py-20 space-y-12 text-slate-300 leading-relaxed"><section class="space-y-6 text-center"><h1 class="text-4xl md:text-5xl font-serif font-bold text-slate-100">Why Less Dumb > Less Wrong</h1> <h2 class="text-2xl md:text-3xl font-serif text-gold max-w-2xl mx-auto">A Hits-Based, Longtermist Intervention with Free Embedded Convexity</h2> <p class="text-lg text-slate-400 italic">(Or: Why Cultural Gold Dominates the EA Portfolio Under Any
             Plausible Utility Function)</p> <div class="w-24 h-1 bg-gold mx-auto rounded-full mt-8"></div></section> <section class="space-y-6"><h3 class="text-2xl font-serif text-slate-100">1. The Standard EA Donation (for reference)</h3> <div class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-2"><p><span class="text-gold font-bold">Let</span></p> <p><span class="text-blue-300">C</span> = capital committed (e.g. $100k)</p> <p><span class="text-blue-300">I₀</span> = immediate measurable impact
                 in utilitons (or QALYs, WELLBYs, etc.)</p> <p><span class="text-blue-300">λ</span> = longtermist flow-through multiplier
                 (typically 10¹–10⁶ depending on your x-risk vs. trajectory priors)</p> <p><span class="text-blue-300">Rₑ</span> = expected financial return
@@ -85,33 +60,8 @@
                 literacy portfolio</li></ul> <div class="my-6 space-y-4"><p>A classic EA donor would have to <strong class="text-slate-100">pay</strong> $100k to achieve the same impact.</p> <p>You paid $0 net (capital returned) and still got the impact.</p></div> <p class="font-medium text-slate-200">Therefore, <span class="text-gold">even if every single Cultural Gold project is a
                 99.99th-percentile failure</span>, the intervention is still <span class="text-gold">strictly better</span> than any charitable grant
             that returns &lt; 100% of capital.</p> <p>The only interventions that could compete would be ones that return
-            > 100% of capital while delivering equal or greater charity
+            &gt; 100% of capital while delivering equal or greater charity
             impact. No such interventions currently exist in the EA ecosystem.</p> <p>Hence, under any degree of belief in power-law outcomes (which every
             hits-based or longtermist donor already professes), allocating to
             Cultural Gold replicators is the dominant strategy until the
-            expected financial return is arbitraged down to ~1×.</p> <div class="text-center py-8"><p class="text-3xl font-serif font-bold text-gold tracking-widest">Q.E.D.</p> <p class="text-slate-500 mt-2 italic">(The pin is still available.)</p></div></section></div><!----><!--]--></main> <footer class="py-12 border-t border-slate-800/50 text-center text-slate-500 text-sm"><p>© 2025 Plum Candy Foundation. 501(c)(3).</p></footer></div><!----><!--]--> <!--[!--><!--]--><!--]-->
-			
-			<script>
-				{
-					__sveltekit_cxy0wn = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					Promise.all([
-						import("./_app/immutable/entry/start.B23Ds_OB.js"),
-						import("./_app/immutable/entry/app.CGYDSJCT.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 3],
-							data: [null,null],
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+            expected financial return is arbitraged down to ~1×.</p> <div class="text-center py-8"><p class="text-3xl font-serif font-bold text-gold tracking-widest">Q.E.D.</p> <p class="text-slate-500 mt-2 italic">(The pin is still available.)</p></div></section></div>`);function n(t){var e=l();a(t,e)}export{n as component};
