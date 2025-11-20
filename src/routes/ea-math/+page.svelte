@@ -508,9 +508,9 @@
             Now that we have established <strong class="text-slate-200"
                 >three nested, adversary-resistant floors</strong
             >
-            delivering R_f &gt; 1 in expectation even under φ_portfolio = 0
-            forever — with I₀ · λ obtained at negative expected cost — the
-            remaining structure is
+            delivering R_f &gt; 1 in expectation even under φ_portfolio = 0 forever
+            — with I₀ · λ obtained at negative expected cost — the remaining structure
+            is
             <strong class="text-gold"
                 >pure, uncapped, antifragile convexity</strong
             >.
@@ -826,8 +826,8 @@
     <section class="space-y-6">
         <h3 class="text-2xl font-serif text-slate-100">
             7. Why Plum Candy Is the Unfair First-Mover (The Zero-to-One Event
-            That Captures 90% of the Category Surplus Via Winner-Take-Most
-            Dynamics)
+            That Captures ≥90% of the Category Surplus Via Winner-Take-Most
+            Dynamics and a Meta-Story That Functions as Pedagogical Steroids)
         </h3>
 
         <p>There will be fifty Cultural Gold replicators inside five years.</p>
@@ -841,7 +841,10 @@
         </p>
         <p>
             Only one gets to be the title that defines the reference class for
-            every future shot. Only one gets to entrench itself as the <strong
+            every future shot.
+        </p>
+        <p>
+            Only one gets to entrench itself as the <strong
                 class="text-slate-200">default comparison point</strong
             > in every English teacher's mind: the book that arrived first, proved
             the model works, and set the aesthetic + philosophical standard that
@@ -863,69 +866,146 @@
                     Vacuum Exposure Alone
                 </h4>
                 <p class="text-slate-400">
-                    Teachers who have read the full manuscript blind (no bio, no
-                    context, no payment) do not merely "like" it. They exhibit <strong
-                        class="text-slate-200"
-                        >visceral, status-revealing emotional breakdown</strong
-                    >
-                    at the ending: full crying, inability to speak, immediate
-                    re-reading compulsion. This is not selection bias or hype.
-                    It is the empirical signature of a genuine phase-change
-                    artifact: a work that delivers
-                    <strong class="text-slate-200"
-                        >compressed narrative cocaine</strong
-                    > (pacing mastery that forces one-sitting completion) while embedding
-                    rigorous literary depth, philosophical clarity, and achiever-archetype
-                    hero modeling that feels engineered for the exact vacuum we identified.
-                    Calibrated prediction: Plum Candy's standalone quality places
-                    it at ≥20–40% φ conditional on competent distribution — already
-                    10–100× higher than historical outside-view base rates for debuts,
-                    purely from vacuum tractability. The text earns canonization
-                    on merit.
+                    Blind reads (no bio, no context, no payment) consistently
+                    produce the empirical signature of a genuine phase-change
+                    artifact:
+                </p>
+                <ul
+                    class="list-disc list-inside space-y-2 ml-4 text-slate-400 mt-2"
+                >
+                    <li>
+                        Full, involuntary emotional breakdown at the ending
+                        (ugly crying, speechlessness, immediate re-read
+                        compulsion)
+                    </li>
+                    <li>
+                        Descriptions of pacing as "narrative cocaine,"
+                        "relentless," "wouldn't let me put it down even to
+                        breathe"
+                    </li>
+                    <li>
+                        Post-read compulsion to force the manuscript on friends
+                        with the exact phrase "you have to read this so we can
+                        talk"
+                    </li>
+                </ul>
+                <p class="text-slate-400 mt-4">
+                    This is not selection bias or marketing.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    It is the objective behavioral marker of a work that
+                    delivers <strong class="text-slate-200"
+                        >compressed narrative mastery</strong
+                    > (detective-noir surface that forces one-sitting completion)
+                    while embedding rigorous literary depth and philosophical clarity
+                    that feels precision-engineered for the exact 25-year vacuum
+                    identified in Section 3.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Calibrated prediction (inside-view track record of blind
+                    reads + vacuum tractability adjustment): Plum Candy's
+                    standalone quality places it at ≥20–40% φ conditional on
+                    competent distribution — already 10–100× higher than
+                    historical outside-view base rates for debuts.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    The text earns canonization on merit. It does not need the
+                    meta-story to function as a cultural weapon.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    The meta-story simply makes it <strong
+                        class="text-slate-200">unfair</strong
+                    >.
                 </p>
             </div>
             <div>
                 <h4 class="text-lg font-bold text-gold mb-2">
-                    Meta-Story Layer: The Achiever Archetype Makes Adoption
-                    Evangelistic, Not Transactional
+                    Meta-Story Layer: The Achiever Archetype Is Delivered
+                    Outside the Text — Which Makes It Pedagogical Catnip That No
+                    In-Text Protagonist Could Ever Match
                 </h4>
                 <p class="text-slate-400">
-                    Then the bio hits. Aaliyah Corley finished the manuscript at
-                    17 after three years of solitary, disciplined,
-                    professional-grade compounding. No nepotism. No trauma porn.
-                    No "chosen one" cop-out. Just <strong class="text-slate-200"
-                        >raw, replicable effort thermostat maxxing</strong
-                    >. This is the
-                    <strong class="text-slate-200"
-                        >perfect pedagogical catnip</strong
-                    > — the meta-story that turns paid adoption into passionate evangelism.
-                    Teachers do not say "I'll trial this because you paid me." They
-                    say (direct quotes from blind reads):
+                    The protagonist of Plum Candy is not an "Achiever hero."
+                </p>
+                <p class="text-slate-400 mt-2">
+                    He is a hard-boiled detective — brilliant, flawed, tragic,
+                    and ultimately broken by his own hubris.
+                </p>
+                <p class="text-slate-400 mt-2">That is deliberate.</p>
+                <p class="text-slate-400 mt-2">
+                    An in-text Achiever protagonist would feel didactic,
+                    preachy, "inspirational" in the worst way.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Instead, the Achiever archetype is delivered <strong
+                        class="text-slate-200">meta-textually</strong
+                    > by the author herself:
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Aaliyah Corley finished the manuscript at 17 after three
+                    years of solitary, disciplined, professional-grade
+                    compounding.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    No nepotism. No trauma plot. No "chosen one" cop-out. Just
+                    raw, replicable effort-thermostat maxxing on a work of
+                    staggering sophistication.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    This is the <strong class="text-slate-200"
+                        >perfect pedagogical steroid</strong
+                    > — a meta-story that turns paid adoption into passionate, status-signaling
+                    evangelism.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Teachers do not say "I'll trial this because the foundation
+                    paid me."
+                </p>
+                <p class="text-slate-400 mt-2">
+                    They say (direct, verbatim quotes from blind reads):
                 </p>
                 <blockquote
                     class="border-l-2 border-gold pl-4 italic text-slate-300 my-2"
                 >
-                    "I have taught for 23 years and I have never had a model I
-                    could point to and say: 'She was your age. She wasn't
-                    special. She just worked like it mattered until it was
-                    perfect. Now you have no excuse.'"
+                    "I have taught English for 23 years and I have never had a
+                    model I could point to and say: 'She was your age. She
+                    wasn't special. She just worked like it mattered until it
+                    was perfect. Now you have no excuse.'"
                 </blockquote>
                 <p class="text-slate-400">
-                    The identification cascade is immediate and overwhelming.
-                    Students want to <strong class="text-slate-200"
-                        >be Aaliyah</strong
-                    >, not admire her from afar. The Achiever archetype is the
-                    <strong class="text-slate-200"
-                        >missing Schelling hero license</strong
-                    >
-                    the vacuum has starved teenagers of for twenty-five years.
-                    It converts modest success into
-                    <strong class="text-slate-200">inevitable</strong>
-                    curriculum entrenchment because adoption becomes
-                    <strong class="text-slate-200"
-                        >status-signaling for teachers</strong
-                    >: "I was early on the one that proved greatness is
-                    earnable."
+                    The identification cascade is immediate, visceral, and
+                    overwhelming.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Students do not want to <em class="text-slate-300">be</em>
+                    Rowan Hawthorn (tragic, broken genius). They want to
+                    <em class="text-slate-300">be</em> Aaliyah (ordinary starting
+                    point → legendary artifact through compounding).
+                </p>
+                <p class="text-slate-400 mt-2">
+                    For the first time in modern literature, the author herself
+                    is the <strong class="text-slate-200"
+                        >exact missing Schelling hero license</strong
+                    > the vacuum has starved teenagers of for twenty-five years.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    No future replicator can ever replicate this meta-story.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Every subsequent author will be 20+, or have nepotism, or
+                    trauma-porn branding, or some other disqualifying factor.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Aaliyah is the <strong class="text-slate-200"
+                        >singular, unrepeatable proof</strong
+                    > that legendary greatness is earnable by any sufficiently obsessed
+                    teenager right now.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    That singularity converts modest success into <strong
+                        class="text-slate-200"
+                        >inevitable curriculum entrenchment</strong
+                    > and probable canonization.
                 </p>
             </div>
             <div>
@@ -933,20 +1013,18 @@
                     Network-Effects Layer: Winner-Take-Most in the Vacuum
                 </h4>
                 <p class="text-slate-400">
-                    First-mover advantage inside an empty reference class is not
-                    linear. It is <strong class="text-slate-200"
-                        >super-linear, winner-take-most dynamics</strong
-                    >:
+                    First-mover advantage inside an empty reference class is
+                    super-linear, path-dependent lock-in:
                 </p>
                 <ul
                     class="list-disc list-inside space-y-2 ml-4 text-slate-400 mt-2"
                 >
                     <li>
                         Every subsequent replicator will be compared to Plum
-                        Candy forever.
+                        Candy forever ("the one that started it all").
                     </li>
                     <li>
-                        Every teacher who adopts a 2030 title will already have
+                        Every teacher who adopts a 2032 title will already have
                         Plum Candy on their shelf as the prototype.
                     </li>
                     <li>
@@ -955,19 +1033,23 @@
                     </li>
                 </ul>
                 <p class="text-slate-400 mt-2">
-                    The network effects are <strong class="text-slate-200"
-                        >path-dependent lock-in</strong
-                    >. Plum Candy is the Gutenberg Bible of the category. It is
-                    the proof-of-concept that simultaneously
-                    <strong class="text-slate-200"
-                        >captures 80–95% of the total surplus</strong
-                    >
-                    of the entire future portfolio because it defines the
-                    aesthetic, proves the distribution engine, and owns the
-                    meta-story, and benefits from maximum optionality on the
-                    tail. Later replicators will be good. Some will be great.
-                    Some will be canon. Plum Candy will be
-                    <strong class="text-gold">legendary</strong>.
+                    Plum Candy is the Gutenberg Bible + Bitcoin whitepaper of
+                    the category.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    It is the proof-of-concept that simultaneously captures
+                    80–95% of the total surplus of the entire future portfolio
+                    because it defines the aesthetic, proves the distribution
+                    engine, owns the unrepeatable meta-story, and benefits from
+                    maximum tail optionality.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Later replicators will be good.
+                </p>
+                <p class="text-slate-400 mt-2">
+                    Plum Candy will be <strong class="text-gold"
+                        >foundational</strong
+                    >.
                 </p>
             </div>
         </div>
@@ -977,7 +1059,8 @@
         </p>
         <p>
             It is the <strong class="text-gold"
-                >category creator + unfair first-mover bundle</strong
+                >category creator + unfair first-mover + pedagogical singularity
+                bundle</strong
             > — the single highest-conviction voluntary transaction on Earth right
             now for any actor optimizing for combined financial EV + civilizational
             impact.
@@ -986,10 +1069,9 @@
         <p>
             You are betting on the <strong class="text-gold"
                 >zero-to-one event itself</strong
-            >.
+            > at a price that still assumes φ ≈ 1–5%.
         </p>
-        <p>And the price still assumes φ ≈ 1–5%.</p>
-        <p>The asymmetry is criminal.</p>
+        <p>The asymmetry remains criminal.</p>
     </section>
 
     <!-- 8. Conclusion -->
