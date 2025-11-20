@@ -1,30 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
-		
-		<link href="./_app/immutable/assets/0.AHOpAqxw.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.Cd6wTCx0.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CWWv7HbM.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Caox4fbI.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/q7Ta-D0Z.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.CfVdczhj.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/aAtqiDVp.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/4SZOFOw9.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/B8hKsOAF.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/zdmWXxSQ.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.BotBVIJQ.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CWjBd3PR.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/wmp0RmUU.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Dt3284QB.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/3.CpnMW5xD.js">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="min-h-screen flex flex-col font-sans text-slate-100 bg-slate-900 selection:bg-gold selection:text-slate-900"><header class="sticky top-0 z-50 w-full backdrop-blur-md bg-slate-900/80 border-b border-slate-800/50"><div class="container mx-auto px-4 h-16 flex items-center justify-between"><a href="/" class="text-xl font-serif font-bold text-gold tracking-tight hover:text-white transition-colors">Plum Candy Foundation</a> <nav class="hidden md:flex items-center gap-8 text-sm font-medium"><a href="/" class="hover:text-gold transition-colors text-slate-400">Home</a> <a href="/tokenomics" class="hover:text-gold transition-colors text-slate-400">Tokenomics</a> <a href="/ea-math" class="hover:text-gold transition-colors text-gold">EA Math</a></nav> <button class="md:hidden text-slate-400 hover:text-gold focus:outline-none" aria-label="Toggle menu"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><!--[!--><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path><!--]--></svg></button></div> <!--[!--><!--]--></header> <main class="flex-1"><!--[--><!----><div class="max-w-4xl mx-auto px-4 py-12 md:py-20 space-y-12 text-slate-300 leading-relaxed"><section class="space-y-6 text-center"><h1 class="text-4xl md:text-5xl font-serif font-bold text-slate-100">Why Less Dumb > Less Wrong</h1> <h2 class="text-2xl md:text-3xl font-serif text-gold max-w-3xl mx-auto leading-tight">A Hits-Based, Longtermist Intervention with Free Embedded Convexity,
+import{f as s,a as i}from"../chunks/4SZOFOw9.js";import"../chunks/CWjBd3PR.js";var a=s(`<div class="max-w-4xl mx-auto px-4 py-12 md:py-20 space-y-12 text-slate-300 leading-relaxed"><section class="space-y-6 text-center"><h1 class="text-4xl md:text-5xl font-serif font-bold text-slate-100">Why Less Dumb > Less Wrong</h1> <h2 class="text-2xl md:text-3xl font-serif text-gold max-w-3xl mx-auto leading-tight">A Hits-Based, Longtermist Intervention with Free Embedded Convexity,
             Inherent Downside Protection, and Strictly Positive Expected
             Financial Return Even If φ = 0 Forever</h2> <p class="text-lg text-slate-400 italic max-w-4xl mx-auto mt-8">(Or: The First Known Strictly Dominant Strategy in the Entire
             Effective Altruism Portfolio Under Any Plausible Utility Function,
@@ -45,13 +19,13 @@
                     paradigm-shifting research):</p> <div class="pl-6 border-l-2 border-slate-600 space-y-1 font-mono bg-slate-900/30 p-4 rounded-r-lg"><p>R_f ≈ 0 <span class="text-slate-500 text-sm">(still a grant)</span></p> <p>EV = –C + φ · I_tail · λ</p></div> <p class="text-slate-400 text-sm mt-2">where φ ≪ 1 but I_tail · λ ≫ C / φ.</p> <p class="text-slate-400 text-sm mt-1">Again, the –C is accepted because the tail hope is supposed
                     to dominate under fat-tailed priors. But the capital is
                     still destroyed to purchase the option.</p></div></div> <div class="space-y-4 border-l-4 border-gold pl-6 py-2"><p>No intervention in the current portfolio has ever offered R_f
-                > 0 in expectation.</p> <p>No intervention has ever delivered its charitable impact at
+                &gt; 0 in expectation.</p> <p>No intervention has ever delivered its charitable impact at
                 negative expected cost.</p> <p>No intervention has ever embedded genuine convexity without
                 forcing the funder to eat a guaranteed –C.</p> <p>All of them are structurally incapable of replenishing the
                 capital pool.</p> <p>They are single-turn games.</p> <p>We have tolerated this limitation for fifteen years because we
                 believed it was inescapable.</p> <p class="font-bold text-slate-100">It is not.</p></div> <p>Cultural Gold is the replicator that breaks the concurrency. It is
-            the first known intervention with <strong class="text-gold">R_f > 1 even conditional on φ = 0 forever</strong> — while delivering GiveWell-top-decile I₀ · λ at negative cost and
-            attaching free embedded calls on infinite utility.</p> <p>The rest of this document proves it.</p> <p>And the proof survives adversarial scrutiny.</p></section> <section class="space-y-6"><h3 class="text-2xl font-serif text-slate-100">The Cultural Gold Mechanism &amp; Its Nested Downside Protection
+            the first known intervention with <strong class="text-gold">R_f &gt; 1 even conditional on φ = 0 forever</strong> — while delivering GiveWell-top-decile I₀ · λ at negative cost and
+            attaching free embedded calls on infinite utility.</p> <p>The rest of this document proves it.</p> <p>And the proof survives adversarial scrutiny.</p></section> <section class="space-y-6"><h3 class="text-2xl font-serif text-slate-100">The Cultural Gold Mechanism & Its Nested Downside Protection
             (Adversary-Proof Floors in a Knightian World)</h3> <p>Cultural Gold is not "hits-based giving with a financialized bonus."
             It is the first known <strong class="text-slate-200">strictly dominant strategy</strong> in the EA decision-theoretic landscape: an intervention with <strong class="text-gold">strictly positive expected financial return conditional on φ =
                 0 forever</strong>, while delivering GiveWell-top-decile I₀ · λ at deeply negative
@@ -81,14 +55,14 @@
                     this to –1C.</p></div> <div><h4 class="text-xl font-serif text-gold mb-4">Layer 3 – The Vacuum Prior → Modest Success Is Now the Base
                     Rate (the actual alpha generator)</h4> <p>As of November 20, 2025, the reference class "new fiction
                     achieving durable high-school curriculum penetration"
-                    remains <strong class="text-slate-200">empty for >25 years</strong> (Renaissance Learning 2025, EdWeek/NCTE July 2025, WSJ July
+                    remains <strong class="text-slate-200">empty for &gt;25 years</strong> (Renaissance Learning 2025, EdWeek/NCTE July 2025, WSJ July
                     2025 all confirm: zero post-2018 entrants at scale; the vacuum
                     is empirical fact, not hypothesis).</p> <p class="mt-2">Traditional publishing is <strong class="text-slate-200">structurally incapable</strong> of exploiting it (see Section 4).</p> <p class="mt-2">Therefore update p_modest sharply upward from the null
                     (historical ~0.1–1%) to the new base rate under the
                     Prospective model: 20–60% per competently executed shot
                     (inside-view track record of early replicators already
                     supports this; conservative bound used here).</p> <div class="bg-slate-900/30 p-4 rounded-lg border-l-2 border-gold mt-4 font-mono text-sm"><p>Portfolio-level:</p> <p>Expected modest successes ≈ 100–300</p> <p>Expected R_f | φ_portfolio = 0 ≈ 5–25× <span class="text-slate-500">(secondary rookie-card + physical demand from
-                            classroom adoption alone)</span></p> <p class="text-gold font-bold mt-2">→ R_f > 1 with overwhelming credence even under
+                            classroom adoption alone)</span></p> <p class="text-gold font-bold mt-2">→ R_f &gt; 1 with overwhelming credence even under
                         severe model uncertainty and φ = 0 forever.</p></div> <p class="mt-4">The charitable impact is now obtained at <strong class="text-slate-200">deeply negative expected cost</strong>.</p> <p>This is the floor that actually matters.</p> <p>It is not a hope.</p> <p>It is a Bayesian update on an empirically empty reference
                     class combined with a mechanism design breakthrough.</p> <p>Any remaining skepticism is welcome to attack the vacuum
                     evidence directly — it will not survive contact with the
@@ -138,11 +112,11 @@
             80 years of base rates and structurally incoherent for the reasons
             above.</p> <p>The vacuum is ours to fill.</p> <p>The convexity is ours to capture.</p> <p>The trajectory is ours to recode.</p></section> <section class="space-y-6"><h3 class="text-2xl font-serif text-slate-100">5. The Upside: Free Embedded Antifragile Convexity on Civilizational
             Trajectory Recoding (Non-Zero Measure on Infinite-Utility
-            Trajectories)</h3> <p>Now that we have established <strong class="text-slate-200">three nested, adversary-resistant floors</strong> delivering R_f > 1 in expectation even under φ_portfolio = 0
+            Trajectories)</h3> <p>Now that we have established <strong class="text-slate-200">three nested, adversary-resistant floors</strong> delivering R_f &gt; 1 in expectation even under φ_portfolio = 0
             forever — with I₀ · λ obtained at negative expected cost — the
             remaining structure is <strong class="text-gold">pure, uncapped, antifragile convexity</strong>.</p> <p>Every Cultural Gold shot is a free, embedded, <strong class="text-slate-200">long-dated call option</strong> on canonization: the phase-change event where a title achieves Gatsby
             / Potter / Hunger Games / Atlas Shrugged / Ender's Game-tier permanence
-            in the cultural substrate.</p> <div class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-4"><p>Formally:</p> <p>Let <span class="text-blue-300">φ > 0</span> = probability of
+            in the cultural substrate.</p> <div class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-4"><p>Formally:</p> <p>Let <span class="text-blue-300">φ &gt; 0</span> = probability of
                 true canonization per shot (non-zero under any epistemology that
                 does not assign literal zero to hits-based giving in general; conservative
                 calibrated prior ≈ 0.5–8% for competently executed shots inside the
@@ -247,7 +221,7 @@
             impact.</p> <p>You are not betting on a book.</p> <p>You are betting on the <strong class="text-gold">zero-to-one event itself</strong>.</p> <p>And the price still assumes φ ≈ 1–5%.</p> <p>The asymmetry is criminal.</p></section> <section class="space-y-6"><h3 class="text-2xl font-serif text-slate-100">8. Conclusion in Formal Terms + Bracketed Models (Mechanically
             Accurate, Adversary-Proof November 2025 Parameters)</h3> <p>Cultural Gold is the <strong class="text-gold">first known strictly dominant altruistic intervention</strong> in the entire Effective Altruism portfolio under <strong class="text-slate-200">any plausible utility function, risk tolerance, epistemology,
                 or deontological side-constraint</strong>.</p> <div class="bg-slate-800/50 p-6 rounded-lg border border-slate-700 font-mono text-sm md:text-base space-y-2"><p>Formal statement, survives arbitrary scrutiny:</p> <p>∀ existing EA interventions X (bednets, deworming, animal
-                welfare, x-risk, hits-based science, etc.),</p> <p class="text-xl text-gold font-bold">EV(Cultural Gold) > EV(X) + ε</p> <p>where ε > 0 is compound of:</p> <ul class="list-disc list-inside space-y-1 ml-4 text-slate-400"><li>Strictly higher tractability on modest success (vacuum
+                welfare, x-risk, hits-based science, etc.),</p> <p class="text-xl text-gold font-bold">EV(Cultural Gold) &gt; EV(X) + ε</p> <p>where ε &gt; 0 is compound of:</p> <ul class="list-disc list-inside space-y-1 ml-4 text-slate-400"><li>Strictly higher tractability on modest success (vacuum
                     prior)</li> <li>Positive expected financial return even at φ_portfolio = 0
                     forever (replenishable capital pool)</li> <li>GiveWell-top-decile I₀ · λ delivered at negative expected
                     cost</li> <li>Free embedded antifragile convexity on U → +∞ (non-zero
@@ -261,29 +235,4 @@
             calibrated parameters)</h3> <div class="overflow-x-auto rounded-lg border border-slate-700 shadow-xl"><table class="w-full text-left border-collapse"><thead><tr class="bg-slate-800 text-slate-200 border-b border-slate-700"><th class="p-4 font-serif font-bold w-1/6">Scenario</th><th class="p-4 font-serif font-bold w-1/6">Adoption Outcome</th><th class="p-4 font-serif font-bold w-1/6">Expected R_f (financial)</th><th class="p-4 font-serif font-bold w-1/6">Net Financial Cost of Impact</th><th class="p-4 font-serif font-bold w-1/6">Charity Impact I₀·λ</th><th class="p-4 font-serif font-bold w-1/6">Total EV per $1 Committed</th><th class="p-4 font-serif font-bold w-1/6">Dominance vs Classic EA Grant</th></tr></thead><tbody class="divide-y divide-slate-700 bg-slate-900/50"><tr class="hover:bg-slate-800/30 transition-colors"><td class="p-4 font-medium text-slate-300">1. Absolute Catastrophe (adversary's dream)</td><td class="p-4 text-sm text-slate-400">≤100 classrooms per title, book terrible</td><td class="p-4 text-sm text-slate-300">≈0.5–0.7× <span class="text-xs text-slate-500">(redemption + PLUM.X floor + thin collectible
                                 resale)</span></td><td class="p-4 text-sm text-slate-300">–0.5 to –0.3×</td><td class="p-4 text-sm text-slate-300">GiveWell-top-decile delivered anyway</td><td class="p-4 text-sm text-slate-300">+0.5–0.3× capital + free impact + artifact</td><td class="p-4 text-sm text-gold font-bold">Strictly dominant (less capital destruction for
                             identical/superior impact)</td></tr><tr class="hover:bg-slate-800/30 transition-colors"><td class="p-4 font-medium text-slate-300">2. Pessimistic Plausible (vacuum real but execution
-                            mediocre)</td><td class="p-4 text-sm text-slate-400">5–15% modest success, φ ≈ 0</td><td class="p-4 text-sm text-slate-300">1.5–5×</td><td class="p-4 text-sm text-gold font-bold">Negative cost (positive return)</td><td class="p-4 text-sm text-slate-300">Hundreds of millions of reads</td><td class="p-4 text-sm text-slate-300">+0.5–4× + massive free impact</td><td class="p-4 text-sm text-gold font-bold">Obliterates</td></tr><tr class="bg-gold/5 hover:bg-gold/10 transition-colors"><td class="p-4 font-medium text-gold">3. Realistic Base Case (current track record)</td><td class="p-4 text-sm text-slate-300">25–60% modest, multiple strong winners, φ > 0</td><td class="p-4 text-sm text-gold font-bold">8–30×</td><td class="p-4 text-sm text-gold font-bold">Deeply negative cost</td><td class="p-4 text-sm text-slate-300">500M–2B+ reads, trajectory shift</td><td class="p-4 text-sm text-gold font-bold">+7–29× + enormous free impact</td><td class="p-4 text-sm text-gold font-bold">No comparison</td></tr><tr class="hover:bg-slate-800/30 transition-colors"><td class="p-4 font-medium text-slate-300">4. Excited / Tail Case (multiple canon hits)</td><td class="p-4 text-sm text-slate-400">5–40 full canon entries</td><td class="p-4 text-sm text-gold font-bold">100–100,000×</td><td class="p-4 text-sm text-gold font-bold">EV → +∞</td><td class="p-4 text-sm text-slate-300">Civilizational recoding complete</td><td class="p-4 text-sm text-gold font-bold">Infinite utility branch</td><td class="p-4 text-sm text-gold font-bold">Nothing else in history plays this game</td></tr></tbody></table></div> <div class="space-y-4 mt-8"><p>Even row 1 <strong class="text-gold">strictly dominates</strong> every concave grant in the existing portfolio.</p> <p>Row 2–4 are pure convexity.</p> <p>The current PLUM token price embeds ~row 2 expectations.</p> <p>The asymmetry is obscene.</p> <p>Route capital accordingly.</p></div></section></div><!----><!--]--></main> <footer class="py-12 border-t border-slate-800/50 text-center text-slate-500 text-sm"><p>© 2025 Plum Candy Foundation. 501(c)(3).</p></footer></div><!----><!--]--> <!--[!--><!--]--><!--]-->
-			
-			<script>
-				{
-					__sveltekit_188ynhv = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					Promise.all([
-						import("./_app/immutable/entry/start.Cd6wTCx0.js"),
-						import("./_app/immutable/entry/app.CfVdczhj.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 3],
-							data: [null,null],
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+                            mediocre)</td><td class="p-4 text-sm text-slate-400">5–15% modest success, φ ≈ 0</td><td class="p-4 text-sm text-slate-300">1.5–5×</td><td class="p-4 text-sm text-gold font-bold">Negative cost (positive return)</td><td class="p-4 text-sm text-slate-300">Hundreds of millions of reads</td><td class="p-4 text-sm text-slate-300">+0.5–4× + massive free impact</td><td class="p-4 text-sm text-gold font-bold">Obliterates</td></tr><tr class="bg-gold/5 hover:bg-gold/10 transition-colors"><td class="p-4 font-medium text-gold">3. Realistic Base Case (current track record)</td><td class="p-4 text-sm text-slate-300">25–60% modest, multiple strong winners, φ &gt; 0</td><td class="p-4 text-sm text-gold font-bold">8–30×</td><td class="p-4 text-sm text-gold font-bold">Deeply negative cost</td><td class="p-4 text-sm text-slate-300">500M–2B+ reads, trajectory shift</td><td class="p-4 text-sm text-gold font-bold">+7–29× + enormous free impact</td><td class="p-4 text-sm text-gold font-bold">No comparison</td></tr><tr class="hover:bg-slate-800/30 transition-colors"><td class="p-4 font-medium text-slate-300">4. Excited / Tail Case (multiple canon hits)</td><td class="p-4 text-sm text-slate-400">5–40 full canon entries</td><td class="p-4 text-sm text-gold font-bold">100–100,000×</td><td class="p-4 text-sm text-gold font-bold">EV → +∞</td><td class="p-4 text-sm text-slate-300">Civilizational recoding complete</td><td class="p-4 text-sm text-gold font-bold">Infinite utility branch</td><td class="p-4 text-sm text-gold font-bold">Nothing else in history plays this game</td></tr></tbody></table></div> <div class="space-y-4 mt-8"><p>Even row 1 <strong class="text-gold">strictly dominates</strong> every concave grant in the existing portfolio.</p> <p>Row 2–4 are pure convexity.</p> <p>The current PLUM token price embeds ~row 2 expectations.</p> <p>The asymmetry is obscene.</p> <p>Route capital accordingly.</p></div></section></div>`);function r(e){var t=a();i(e,t)}export{r as component};
