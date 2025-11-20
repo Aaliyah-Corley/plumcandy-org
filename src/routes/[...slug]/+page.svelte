@@ -53,18 +53,21 @@
         <div class="space-y-6">
             <h2 class="text-3xl font-serif text-slate-100">A Worthy Hero</h2>
             <p class="text-lg text-slate-300 leading-relaxed">
-                Our first project is <span class="italic text-gold"
-                    >Plum Candy</span
-                >, a debut novel by 17-year-old Aaliyah Corley.
+                We make high school kids less dumb by giving them a worthy hero
+                — and making her novel, <a
+                    href="https://aaliyah.com.br/plum-candy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-gold italic hover:underline">Plum Candy</a
+                >,
+                <a
+                    href="https://itscanon.com/plum-candy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-gold hover:underline"
+                    >culturally ubiquitous and fervently discussed in classrooms</a
+                >.
             </p>
-            <a
-                href="https://itscanon.com/plum-candy"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="inline-block text-gold hover:text-white transition-colors border-b border-gold/30 hover:border-gold pb-1"
-            >
-                This is how we help teachers make kids less dumb.
-            </a>
         </div>
         <div
             class="relative aspect-[4/5] md:aspect-square bg-slate-800 rounded-lg overflow-hidden border border-slate-700 shadow-2xl"
@@ -80,13 +83,12 @@
     <section class="space-y-8 text-center max-w-3xl mx-auto">
         <h2 class="text-3xl font-serif text-slate-100">Cultural Gold</h2>
         <p class="text-lg text-slate-300 leading-relaxed">
-            We are building a roadmap to cultural influence.
-        </p>
-        <p class="text-lg text-slate-300">
-            We have a unique asset: <a
+            Our roadmap to cultural influence will be financed through generous
+            donations, yes, but principally through a sophisticated new digital
+            asset: <a
                 href="/tokenomics"
                 class="text-gold font-serif italic hover:underline"
-                >Cultural Gold</a
+                >cultural gold</a
             >.
         </p>
     </section>
