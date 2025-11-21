@@ -68,6 +68,18 @@
                     >culturally ubiquitous and fervently discussed in classrooms</a
                 >.
             </p>
+            <div class="mt-8 space-y-4">
+                <h3 class="text-xl font-bold text-slate-100">
+                    The Achiever Archetype
+                </h3>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    Plum Candy is not just a great noir mystery. It’s the meta
+                    story of the author, Aaliyah. The fact that a real
+                    17-year-old wrote this is the Pedagogical Holy Grail.
+                    Teachers can point to her and say: "She worked hard. She did
+                    it. Maybe you can too!"
+                </p>
+            </div>
         </div>
         <div
             class="relative aspect-[4/5] md:aspect-square bg-slate-800 rounded-lg overflow-hidden border border-slate-700 shadow-2xl"
@@ -80,7 +92,7 @@
         </div>
     </section>
 
-    <section class="space-y-8 text-center max-w-3xl mx-auto">
+    <section class="space-y-8 text-left max-w-3xl mx-auto">
         <h2 class="text-3xl font-serif text-slate-100">Cultural Gold</h2>
         <p class="text-lg text-slate-300 leading-relaxed">
             Our roadmap to cultural influence will be financed through generous
@@ -91,6 +103,75 @@
                 >cultural gold</a
             >.
         </p>
+
+        <div class="space-y-8 mt-8">
+            <div class="space-y-4">
+                <h3 class="text-xl font-bold text-slate-100">
+                    The Capital Engine
+                </h3>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    Financial patrons get 'Rookie Card' bundles. They are paying
+                    for the status of being “first,” with a convex payoff
+                    function.
+                </p>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    First edition “value” has traditionally been lost to any
+                    rando who happened to be in a 1998 bookstore with £2 to buy
+                    an unknown Harry Potter, that’s now worth $500k.
+                </p>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    You’re capturing value that was always there, but forfeited.
+                    We're using that value to compound upon itself while helping
+                    make high school kids less dumb.
+                </p>
+            </div>
+
+            <div class="space-y-2">
+                <h3 class="text-xl font-bold text-slate-100">
+                    Concave (Standard Charity)
+                </h3>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    You give $500k. They do charity stuff. You helped some kids.
+                    The $500k is gone. You have to work to make another $500k to
+                    give again. It is a "single-turn game."
+                </p>
+            </div>
+
+            <div class="space-y-2">
+                <h3 class="text-xl font-bold text-slate-100">
+                    Convex (Cultural Gold)
+                </h3>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    You buy $500k of PLUM. We do charity stuff. If the novel
+                    misses, you still helped kids. But if the novel is a hit?
+                    You get an outsized payoff. You can now fund <em
+                        class="italic">more</em
+                    > literacy.
+                </p>
+            </div>
+
+            <div class="space-y-4">
+                <h3 class="text-xl font-bold text-slate-100">Impact engine</h3>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    All the money raised funds the mission.
+                </p>
+                <p class="text-lg text-slate-300 leading-relaxed">
+                    We mail a teacher’s edition of Plum Candy to 100,000 High
+                    School English Professors.<br />
+                    Offer them a 3-year grant, for their whole school, if they can
+                    prove they read the book.<br />
+                    Carpet-bomb basic copies out to celebs, CEOs, and college students.<br
+                    />
+                    Create a manhwa. Make the movie.
+                </p>
+            </div>
+
+            <div class="pt-4">
+                <p class="text-2xl font-serif text-gold italic">
+                    Zero to One for Culture.
+                </p>
+            </div>
+        </div>
     </section>
 
     <!-- Quote -->
