@@ -1017,7 +1017,7 @@
                 </p>
                 <p class="text-slate-400 mt-2">
                     Students do not want to <em class="text-slate-300">be</em>
-                    Rowan Hawthorn (tragic, broken genius). They want to
+                    Noelan Elyrite (tragic, broken genius). They want to
                     <em class="text-slate-300">be</em> Aaliyah (ordinary starting
                     point → legendary artifact through compounding).
                 </p>
