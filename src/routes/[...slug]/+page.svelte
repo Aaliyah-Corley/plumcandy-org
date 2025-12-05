@@ -96,8 +96,8 @@
         <h2 class="text-3xl font-serif text-slate-100">Cultural Gold</h2>
         <p class="text-lg text-slate-300 leading-relaxed">
             Our roadmap to cultural influence will be financed through generous
-            donations, yes, but principally through a sophisticated new digital
-            asset: <a
+            donations, yes, but principally through a sophisticated new
+            philanthropic asset class: <a
                 href="https://plumcandy.com"
                 class="text-gold font-serif italic hover:underline"
                 >cultural gold</a

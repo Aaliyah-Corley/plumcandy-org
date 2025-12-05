@@ -1237,7 +1237,8 @@
                             artifacts</td
                         >
                         <td class="p-4 text-sm text-gold font-bold"
-                            >Still strictly dominant vs any classic grant</td
+                            >Strictly dominant vs every existing EA intervention
+                            ever funded</td
                         >
                     </tr>
 
