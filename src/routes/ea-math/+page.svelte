@@ -247,24 +247,52 @@
             <!-- Layer 2 -->
             <div>
                 <h4 class="text-xl font-serif text-gold mb-4">
-                    Layer 2 – Soft Asset/Redemption Floor
+                    Layer 2 – Realistic Worst-Case Floor
                 </h4>
                 <p>
-                    Every donor receives serialized, signed, museum-grade
-                    physical Sarcophagus copies (wet-touch paper, suede-lined
-                    clamshell, etc.). Historical base rates for signed
-                    limited-edition firsts of merely taught or cult-mid titles
-                    routinely recover 0.4–0.8× mint cost on the secondary market
-                    even in thin conditions (e.g., non-canon but
-                    curriculum-persistent YA from 1990–2010, small-press
-                    literary darlings, etc.). Worst-case floor is therefore
-                    ≈0.5–0.7× capital even if the book completely flops and
-                    every copy is dumped at once. Net expected loss in
-                    catastrophe scenarios is capped at ≈–0.3 to –0.5C while the
-                    full charitable impact still fires. You should assume this
-                    is the realistic worst case — most first editions do go to
-                    zero or near-zero.
+                    There are two distinct failure modes, and we state them
+                    plainly:
                 </p>
+                <div class="space-y-4 mt-4 ml-4">
+                    <div>
+                        <p class="font-bold text-slate-200">
+                            1. The book is bad (truly unteachable, embarrassing,
+                            or forgettable)
+                        </p>
+                        <p
+                            class="text-slate-400 mt-1 pl-4 border-l-2 border-slate-700"
+                        >
+                            → Sarcophagus copies become unsellable curios.
+                            Historical precedent is brutal: 95–99 % of
+                            signed/limited first editions of non-canon fiction
+                            eventually trade at 0–5 ¢ on the dollar or sit
+                            forever unsold. Assume zero recovery. Your entire
+                            allocation is spent on the 100,000+ teacher copies
+                            and grants. You own beautiful doorstops.
+                        </p>
+                    </div>
+                    <div>
+                        <p class="font-bold text-slate-200">
+                            2. The book is merely average (perfectly competent
+                            45k-word noir, professionally edited, with turnkey
+                            lesson plans)
+                        </p>
+                        <p
+                            class="text-slate-400 mt-1 pl-4 border-l-2 border-slate-700"
+                        >
+                            → It is still likely to achieve modest classroom
+                            penetration purely on the strength of being free +
+                            teachable. Historical comps (dozens of “mid-tier”
+                            novels that became curriculum staples for decades)
+                            routinely see signed/limited editions retain
+                            0.3–1.0× of original cost on the thin secondary
+                            market even without cultural escape velocity. We do
+                            not promise this outcome, but it is the realistic
+                            central tendency for an average-but-useful book
+                            under the Cultural Gold distribution engine.
+                        </p>
+                    </div>
+                </div>
             </div>
 
             <!-- Layer 3 -->
@@ -1217,28 +1245,36 @@
                     <!-- Row 1 -->
                     <tr class="hover:bg-slate-800/30 transition-colors">
                         <td class="p-4 font-medium text-slate-300"
-                            >1. Absolute Catastrophe (book is terrible, zero
-                            adoption)</td
+                            >1a. Book is bad</td
                         >
                         <td class="p-4 text-sm text-slate-400"
-                            >≤100 classrooms per title</td
+                            >Unteachable / embarrassing / forgotten</td
+                        >
+                        <td class="p-4 text-sm text-slate-300">≈ 0×</td>
+                        <td class="p-4 text-sm text-slate-300">–1×</td>
+                        <td class="p-4 text-sm text-slate-300"
+                            >Full mission (100k+ classrooms)</td
                         >
                         <td class="p-4 text-sm text-slate-300"
-                            >≈0.5–0.7× (thin secondary resale of beautiful
-                            physical artifacts)</td
+                            >Identical downside, same or better impact</td
                         >
-                        <td class="p-4 text-sm text-slate-300">–0.3 to –0.5×</td
+                    </tr>
+                    <tr class="hover:bg-slate-800/30 transition-colors">
+                        <td class="p-4 font-medium text-slate-300"
+                            >1b. Book is merely average</td
                         >
+                        <td class="p-4 text-sm text-slate-400"
+                            >Competent, teachable, but no cultural escape
+                            velocity</td
+                        >
+                        <td class="p-4 text-sm text-slate-300">0.3–1.0×</td>
+                        <td class="p-4 text-sm text-slate-300">–0.7 to 0×</td>
                         <td class="p-4 text-sm text-slate-300"
-                            >GiveWell-top-decile impact delivered anyway</td
-                        >
-                        <td class="p-4 text-sm text-slate-300"
-                            >+0.3–0.5× capital preserved + free impact + unique
-                            artifacts</td
+                            >Full mission + modest adoption</td
                         >
                         <td class="p-4 text-sm text-gold font-bold"
-                            >Strictly dominant vs every existing EA intervention
-                            ever funded</td
+                            >Strictly dominant (impact at zero or positive
+                            financial return)</td
                         >
                     </tr>
 
