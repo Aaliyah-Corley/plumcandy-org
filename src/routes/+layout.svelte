@@ -36,13 +36,7 @@
             ? 'text-gold'
             : 'text-slate-400'}">Home</a
         >
-        <a
-          href="/tokenomics"
-          class="hover:text-gold transition-colors {$page.url.pathname ===
-          '/tokenomics'
-            ? 'text-gold'
-            : 'text-slate-400'}">Tokenomics</a
-        >
+
         <a
           href="/ea-math"
           class="hover:text-gold transition-colors {$page.url.pathname ===
@@ -97,14 +91,7 @@
               : 'text-slate-400'}"
             on:click={closeMenu}>Home</a
           >
-          <a
-            href="/tokenomics"
-            class="block py-2 hover:text-gold transition-colors {$page.url
-              .pathname === '/tokenomics'
-              ? 'text-gold'
-              : 'text-slate-400'}"
-            on:click={closeMenu}>Tokenomics</a
-          >
+
           <a
             href="/ea-math"
             class="block py-2 hover:text-gold transition-colors {$page.url

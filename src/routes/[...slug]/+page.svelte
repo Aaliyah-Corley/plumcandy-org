@@ -98,7 +98,7 @@
             Our roadmap to cultural influence will be financed through generous
             donations, yes, but principally through a sophisticated new digital
             asset: <a
-                href="/tokenomics"
+                href="https://plumcandy.com"
                 class="text-gold font-serif italic hover:underline"
                 >cultural gold</a
             >.
@@ -142,11 +142,10 @@
                     Convex (Cultural Gold)
                 </h3>
                 <p class="text-lg text-slate-300 leading-relaxed">
-                    You buy $500k of PLUM. We do charity stuff. If the novel
-                    misses, you still helped kids. But if the novel is a hit?
-                    You get an outsized payoff. You can now fund <em
-                        class="italic">more</em
-                    > literacy.
+                    You buy $500k of Sarcophagus rookie cards. We do charity
+                    stuff. If the novel misses, you still helped kids. But if
+                    the novel is a hit? You get an outsized payoff. You can now
+                    fund <em class="italic">more</em> literacy.
                 </p>
             </div>
 

@@ -218,8 +218,8 @@
                     forced seeding.
                 </p>
                 <p class="mt-2">
-                    Even if token price → $0 on reveal (adversary's strongest
-                    move), the intervention has already executed.
+                    Even if secondary value → $0 on reveal (adversary's
+                    strongest move), the intervention has already executed.
                 </p>
                 <ul
                     class="list-disc list-inside space-y-2 mt-4 ml-4 text-slate-400"
@@ -248,40 +248,22 @@
             <div>
                 <h4 class="text-xl font-serif text-gold mb-4">
                     Layer 2 – Soft Asset/Redemption Floor
-                    (Knightian-uncertainty-resistant partial recovery)
                 </h4>
                 <p>
-                    Every token is 1:1 bundled with a serialized, signed,
-                    never-reprinted rookie card + perpetual digital access.
-                </p>
-                <p class="mt-2">
-                    Historical base rates for signed/limited first editions of
-                    "merely taught" or cult-mid titles (e.g. non-canon but
-                    curriculum-persistent YA from 1990–2010) show secondary
-                    recovery of 0.4–0.8× mint price in thin but real markets,
-                    even under pessimistic liquidity assumptions.
-                </p>
-                <p class="mt-2">
-                    Plus foundation-backed PLUM.X bid wall (tithe-funded).
-                </p>
-                <ul
-                    class="list-disc list-inside space-y-2 mt-4 ml-4 text-slate-400"
-                >
-                    <li>Worst-case tail recovery ≈ 0.5× on average.</li>
-                    <li>
-                        Net expected loss in catastrophe scenarios capped at ≈
-                        –0.5C while impact fires fully.
-                    </li>
-                </ul>
-                <p class="mt-4 font-medium text-slate-200">
-                    Still strictly dominant over grants (you eat at most half
-                    the capital destruction for identical or superior I₀ · λ),
-                    and you receive a unique physical + status artifact no grant
-                    provides.
-                </p>
-                <p class="text-sm text-slate-500 mt-2">
-                    Any rational agent with even modest risk aversion prefers
-                    this to –1C.
+                    Every donor receives serialized, signed, museum-grade
+                    physical Sarcophagus copies (wet-touch paper, suede-lined
+                    clamshell, etc.). Historical base rates for signed
+                    limited-edition firsts of merely taught or cult-mid titles
+                    routinely recover 0.4–0.8× mint cost on the secondary market
+                    even in thin conditions (e.g., non-canon but
+                    curriculum-persistent YA from 1990–2010, small-press
+                    literary darlings, etc.). Worst-case floor is therefore
+                    ≈0.5–0.7× capital even if the book completely flops and
+                    every copy is dumped at once. Net expected loss in
+                    catastrophe scenarios is capped at ≈–0.3 to –0.5C while the
+                    full charitable impact still fires. You should assume this
+                    is the realistic worst case — most first editions do go to
+                    zero or near-zero.
                 </p>
             </div>
 
@@ -365,14 +347,35 @@
             </p>
             <p class="font-bold text-gold mt-2">The rest is convexity.</p>
         </div>
+
+        <div class="mt-8">
+            <p
+                class="font-serif text-lg text-gold italic border-l-4 border-gold pl-6"
+            >
+                First-mover privilege in an empty reference class is
+                winner-take-most. Plum Candy is not just the first Cultural Gold
+                shot — it is the proof-of-concept that defines the category for
+                every future replicator. If the model succeeds at even modest
+                scale, Plum Candy becomes the Schelling ‘Gutenberg Bible’ of the
+                new canon: the title every subsequent Cultural Gold project is
+                compared to forever, the one that proved the distribution engine
+                works, and the one with the unrepeatable 17-year-old Achiever
+                meta-story. That category-creator premium is not priced into any
+                other first edition in history, because no other mechanism ever
+                deliberately created the category before the cultural
+                significance existed. Your physical Sarcophagus copies are
+                therefore the literal rookie cards of the rookie-card model
+                itself.
+            </p>
+        </div>
     </section>
 
     <!-- 4. Structural Incapability -->
     <section class="space-y-6">
         <h3 class="text-2xl font-serif text-slate-100">
             4. Structural Incapability of Legacy Publishing to Exploit the
-            Vacuum (The Arbitrage Is Permanent Until Token-Aligned Replicators
-            Reach Saturation)
+            Vacuum (The Arbitrage Is Permanent Until Aligned Replicators Reach
+            Saturation)
         </h3>
 
         <p>The vacuum is not a temporary market inefficiency.</p>
@@ -418,10 +421,10 @@
                     to a single debut fiction title is literal fiduciary
                     malpractice when the portfolio is 100–500 titles per year
                     and the outside-view failure rate is 99%+. They diversify
-                    retrospectively, not concentrate prospectively. The token
-                    model requires going maximally leveraged on philosophical
-                    conviction — the exact opposite of their equilibrium
-                    strategy.
+                    retrospectively, not concentrate prospectively. The
+                    rookie-card model requires going maximally leveraged on
+                    philosophical conviction — the exact opposite of their
+                    equilibrium strategy.
                 </p>
             </div>
             <div>
@@ -429,10 +432,10 @@
                     2. Reputational toxicity of the convexity-capture mechanism
                 </h4>
                 <p class="text-slate-400">
-                    The rookie-card token is the loop-closing device that routes
-                    secondary-market convexity back to the capital pool. Legacy
-                    publishers cannot adopt it without reputational
-                    self-immolation: "We are selling crypto tokens tied to
+                    The rookie-card artifact is the loop-closing device that
+                    routes secondary-market convexity back to the capital pool.
+                    Legacy publishers cannot adopt it without reputational
+                    self-immolation: "We are selling physical artifacts tied to
                     children's literature" triggers immediate backlash from
                     authors, agents, media, sensitivity readers, and the entire
                     prestige economy they depend on for talent acquisition. It
@@ -467,7 +470,7 @@
             > of the publishing game — robust to changes in technology, personnel,
             or market conditions short of civilizational collapse.
         </p>
-        <p>Token-aligned replicators face none of these constraints.</p>
+        <p>Aligned replicators face none of these constraints.</p>
         <ul class="list-disc list-inside space-y-2 ml-4 text-slate-400">
             <li>We operate outside the prestige economy.</li>
             <li>We embrace the convexity capture explicitly.</li>
@@ -1029,7 +1032,7 @@
                     </li>
                     <li>
                         Every student obsessed with a 2035 canon hit will have
-                        cut their teeth on PLUM rookie cards first.
+                        cut their teeth on Sarcophagus rookie cards first.
                     </li>
                 </ul>
                 <p class="text-slate-400 mt-2">
@@ -1055,7 +1058,8 @@
         </div>
 
         <p class="mt-6">
-            The PLUM token is therefore not "one Cultural Gold shot."
+            Your physical Sarcophagus copy is therefore not "one Cultural Gold
+            shot."
         </p>
         <p>
             It is the <strong class="text-gold"
@@ -1213,28 +1217,27 @@
                     <!-- Row 1 -->
                     <tr class="hover:bg-slate-800/30 transition-colors">
                         <td class="p-4 font-medium text-slate-300"
-                            >1. Absolute Catastrophe (adversary's dream)</td
+                            >1. Absolute Catastrophe (book is terrible, zero
+                            adoption)</td
                         >
                         <td class="p-4 text-sm text-slate-400"
-                            >≤100 classrooms per title, book terrible</td
+                            >≤100 classrooms per title</td
                         >
                         <td class="p-4 text-sm text-slate-300"
-                            >≈0.5–0.7× <span class="text-xs text-slate-500"
-                                >(redemption + PLUM.X floor + thin collectible
-                                resale)</span
-                            ></td
+                            >≈0.5–0.7× (thin secondary resale of beautiful
+                            physical artifacts)</td
                         >
-                        <td class="p-4 text-sm text-slate-300">–0.5 to –0.3×</td
+                        <td class="p-4 text-sm text-slate-300">–0.3 to –0.5×</td
                         >
                         <td class="p-4 text-sm text-slate-300"
-                            >GiveWell-top-decile delivered anyway</td
+                            >GiveWell-top-decile impact delivered anyway</td
                         >
                         <td class="p-4 text-sm text-slate-300"
-                            >+0.5–0.3× capital + free impact + artifact</td
+                            >+0.3–0.5× capital preserved + free impact + unique
+                            artifacts</td
                         >
                         <td class="p-4 text-sm text-gold font-bold"
-                            >Strictly dominant (less capital destruction for
-                            identical/superior impact)</td
+                            >Still strictly dominant vs any classic grant</td
                         >
                     </tr>
 
@@ -1317,7 +1320,10 @@
                 every concave grant in the existing portfolio.
             </p>
             <p>Row 2–4 are pure convexity.</p>
-            <p>The current PLUM token price embeds ~row 2 expectations.</p>
+            <p>
+                The current Sarcophagus allocation price embeds ~row 2
+                expectations.
+            </p>
             <p>The asymmetry is obscene.</p>
             <p>Route capital accordingly.</p>
         </div>
