@@ -975,7 +975,15 @@
                 <p class="text-slate-400 mt-2">
                     Aaliyah Corley finished the manuscript at 17 after three
                     years of solitary, disciplined, professional-grade
-                    compounding.
+                    compounding. She is also <a
+                        href="https://www.youtube.com/watch?v=ynHlNbALwhc"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="text-gold hover:underline"
+                        >11th girl ever to earn Every Merit Badge in scouting
+                        America</a
+                    >. 6 in 100 kids who join make eagle. 1 in 1760,000 earn
+                    every merit badge.
                 </p>
                 <p class="text-slate-400 mt-2">
                     No nepotism. No trauma plot. No "chosen one" cop-out. Just
